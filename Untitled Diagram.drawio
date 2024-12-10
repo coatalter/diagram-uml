@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="YkTlg5jxrq_SYrSYojcH-1" value="&#xa;&amp;lt; include &amp;gt;&#xa;&#xa;" style="swimlane;startSize=0;" vertex="1" parent="1">
+        <mxCell id="YkTlg5jxrq_SYrSYojcH-1" value="JMK X GO GREEN&#xa;&#xa;&#xa;" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="50" width="510" height="610" as="geometry" />
         </mxCell>
         <mxCell id="YkTlg5jxrq_SYrSYojcH-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="YkTlg5jxrq_SYrSYojcH-1" source="YkTlg5jxrq_SYrSYojcH-3" target="YkTlg5jxrq_SYrSYojcH-47">
@@ -17,9 +17,6 @@
         </mxCell>
         <mxCell id="YkTlg5jxrq_SYrSYojcH-3" value="About Us" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="YkTlg5jxrq_SYrSYojcH-1">
           <mxGeometry x="154" y="50" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="YkTlg5jxrq_SYrSYojcH-22" value="&lt;div&gt;JMK X GO GREEN&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="YkTlg5jxrq_SYrSYojcH-1">
-          <mxGeometry x="190" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YkTlg5jxrq_SYrSYojcH-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="YkTlg5jxrq_SYrSYojcH-1" source="YkTlg5jxrq_SYrSYojcH-25" target="YkTlg5jxrq_SYrSYojcH-47">
           <mxGeometry relative="1" as="geometry">
